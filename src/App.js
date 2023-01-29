@@ -33,7 +33,7 @@ function App() {
 </p>
       </div>
       <div className="container">
-<img src={image} width="500px"/>
+<img src={image} alt="bild" width="500px"/>
       </div>
 
       <div className="container">
